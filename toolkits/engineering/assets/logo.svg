@@ -3,14 +3,6 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<rect x="19.92" y="15.12" width="1.76" height="1.76" fill="url(#tg)"/>
-<rect x="18.51" y="18.51" width="1.76" height="1.76" fill="url(#tg)"/>
-<rect x="15.12" y="19.92" width="1.76" height="1.76" fill="url(#tg)"/>
-<rect x="11.73" y="18.51" width="1.76" height="1.76" fill="url(#tg)"/>
-<rect x="10.32" y="15.12" width="1.76" height="1.76" fill="url(#tg)"/>
-<rect x="11.73" y="11.73" width="1.76" height="1.76" fill="url(#tg)"/>
-<rect x="15.12" y="10.32" width="1.76" height="1.76" fill="url(#tg)"/>
-<rect x="18.51" y="11.73" width="1.76" height="1.76" fill="url(#tg)"/>
-<circle cx="128.00" cy="128.00" r="28.16" fill="none" stroke="url(#tg)" stroke-width="2.0"/>
-<circle cx="128.00" cy="128.00" r="8.96" fill="url(#tg)"/>
+<circle cx="128" cy="128" r="48" stroke="url(#tg)" stroke-width="16" fill="none"/>
+<circle cx="128" cy="128" r="14" fill="url(#tg)"/>
 </svg>
