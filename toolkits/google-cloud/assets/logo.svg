@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+<defs><linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="256" y2="256">
+<stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
+</linearGradient></defs>
+<rect width="256" height="256" rx="52" fill="#0D0D0F"/>
+<path d="M92.16 148.48 C78.08 148.48 70.40 137.60 70.40 126.08 C70.40 113.92 79.36 104.96 91.52 104.32 C96.64 91.52 108.80 83.20 123.52 83.20 C139.52 83.20 152.32 92.80 156.80 106.24 C169.60 107.52 179.20 116.48 179.20 128.64 C179.20 140.16 169.92 148.48 157.44 148.48 Z" fill="none" stroke="url(#tg)" stroke-width="7.68" stroke-linejoin="round"/>
+<line x1="94.72" y1="165.12" x2="161.28" y2="165.12" stroke="url(#tg)" stroke-width="7.68" stroke-linecap="round"/>
+</svg>
