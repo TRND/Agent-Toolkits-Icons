@@ -3,5 +3,5 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<polygon points="128.00,87.04 161.28,151.04 128.00,168.96 94.72,151.04" fill="url(#tg)" stroke-linejoin="round"/>
+<polygon points="128,84 162,128 128,172 94,128" fill="none" stroke="url(#tg)" stroke-width="16" stroke-linejoin="round"/>
 </svg>

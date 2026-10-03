@@ -3,10 +3,8 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<path d="M120 101 C109 101 109 112 109 118 C109 124 101 128 101 128 C101 128 109 132 109 138 C109 144 109 155 120 155" fill="none" stroke="url(#tg)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M136 101 C147 101 147 112 147 118 C147 124 155 128 155 128 C155 128 147 132 147 138 C147 144 147 155 136 155" fill="none" stroke="url(#tg)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M78 128 A50 50 0 0 1 128 78" fill="none" stroke="url(#tg)" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
-<path d="M178 128 A50 50 0 0 1 128 178" fill="none" stroke="url(#tg)" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
-<polygon points="128,68 142,79 128,90" fill="url(#tg)"/>
-<polygon points="128,188 114,177 128,166" fill="url(#tg)"/>
+<path d="M128 74 A54 54 0 0 1 182 128" fill="none" stroke="url(#tg)" stroke-width="16" stroke-linecap="round"/>
+<path d="M128 182 A54 54 0 0 1 74 128" fill="none" stroke="url(#tg)" stroke-width="16" stroke-linecap="round"/>
+<polygon points="170,116 194,116 182,142" fill="url(#tg)" stroke-linejoin="round"/>
+<polygon points="62,140 86,140 74,114" fill="url(#tg)" stroke-linejoin="round"/>
 </svg>

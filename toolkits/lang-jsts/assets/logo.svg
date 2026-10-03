@@ -3,12 +3,6 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<path d="M 119.04 128.00 A 16.64 16.64 0 0 1 119.04 94.72" fill="none" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
-<path d="M 119.04 161.28 A 16.64 16.64 0 0 1 119.04 128.00" fill="none" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
-<path d="M 136.96 94.72 A 16.64 16.64 0 0 1 136.96 128.00" fill="none" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
-<path d="M 136.96 128.00 A 16.64 16.64 0 0 1 136.96 161.28" fill="none" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
-<line x1="119.04" y1="94.72" x2="89.60" y2="94.72" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
-<line x1="119.04" y1="161.28" x2="89.60" y2="161.28" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
-<line x1="136.96" y1="94.72" x2="166.40" y2="94.72" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
-<line x1="136.96" y1="161.28" x2="166.40" y2="161.28" stroke="url(#tg)" stroke-width="1.875" stroke-linecap="round"/>
+<path d="M118 86 C96 86 104 114 92 128 C104 142 96 170 118 170" fill="none" stroke="url(#tg)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M138 86 C160 86 152 114 164 128 C152 142 160 170 138 170" fill="none" stroke="url(#tg)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

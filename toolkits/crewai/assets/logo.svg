@@ -3,10 +3,8 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<circle cx="128.00" cy="97.28" r="9.60" fill="url(#tg)"/>
-<circle cx="99.84" cy="153.60" r="9.60" fill="url(#tg)"/>
-<circle cx="156.16" cy="153.60" r="9.60" fill="url(#tg)"/>
-<polyline points="128.00,97.28 99.84,153.60" fill="none" stroke="url(#tg)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="128.00,97.28 156.16,153.60" fill="none" stroke="url(#tg)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="99.84,153.60 156.16,153.60" fill="none" stroke="url(#tg)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="128,94 98,158 158,158 128,94" fill="none" stroke="url(#tg)" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="128" cy="94" r="12" fill="url(#tg)"/>
+<circle cx="98" cy="158" r="12" fill="url(#tg)"/>
+<circle cx="158" cy="158" r="12" fill="url(#tg)"/>
 </svg>

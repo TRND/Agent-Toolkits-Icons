@@ -3,6 +3,6 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<polygon points="89.60,125.44 89.60,89.60 128.00,89.60 166.40,128.00 130.56,163.84 92.16,125.44" fill="none" stroke="url(#tg)" stroke-width="1.70" stroke-linejoin="round"/>
-<circle cx="111.36" cy="111.36" r="5.76" fill="url(#tg)"/>
+<polygon points="94,94 156,94 172,110 156,126 94,126" fill="none" stroke="url(#tg)" stroke-width="14" stroke-linejoin="round"/>
+<circle cx="120" cy="110" r="9" fill="url(#tg)"/>
 </svg>

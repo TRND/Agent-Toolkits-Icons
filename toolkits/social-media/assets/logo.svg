@@ -3,9 +3,9 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<rect x="92.16" y="94.72" width="71.68" height="51.20" rx="23.0" fill="none" stroke="url(#tg)" stroke-width="2.00" stroke-linejoin="round"/>
-<polygon points="115.20,144.64 130.56,144.64 111.36,165.12" fill="url(#tg)" stroke-linejoin="round"/>
-<circle cx="113.92" cy="120.32" r="4.10" fill="url(#tg)"/>
-<circle cx="128.00" cy="120.32" r="4.10" fill="url(#tg)"/>
-<circle cx="142.08" cy="120.32" r="4.10" fill="url(#tg)"/>
+<rect x="92" y="92" width="72" height="52" rx="24" fill="none" stroke="url(#tg)" stroke-width="14" stroke-linejoin="round"/>
+<polygon points="120,146 134,146 116,166" fill="url(#tg)" stroke-linejoin="round"/>
+<circle cx="110" cy="118" r="7" fill="url(#tg)"/>
+<circle cx="128" cy="118" r="7" fill="url(#tg)"/>
+<circle cx="146" cy="118" r="7" fill="url(#tg)"/>
 </svg>

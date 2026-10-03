@@ -3,9 +3,7 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<path d="M 107.52 128.00 A 15.36 15.36 0 0 1 107.52 97.28" fill="none" stroke="url(#tg)" stroke-width="2.0" stroke-linecap="round"/>
-<path d="M 107.52 158.72 A 15.36 15.36 0 0 1 107.52 128.00" fill="none" stroke="url(#tg)" stroke-width="2.0" stroke-linecap="round"/>
-<path d="M 148.48 97.28 A 15.36 15.36 0 0 1 148.48 128.00" fill="none" stroke="url(#tg)" stroke-width="2.0" stroke-linecap="round"/>
-<path d="M 148.48 128.00 A 15.36 15.36 0 0 1 148.48 158.72" fill="none" stroke="url(#tg)" stroke-width="2.0" stroke-linecap="round"/>
-<circle cx="128.00" cy="128.00" r="7.04" fill="url(#tg)"/>
+<path d="M108 92 A36 36 0 0 0 108 164" fill="none" stroke="url(#tg)" stroke-width="16" stroke-linecap="round"/>
+<path d="M148 92 A36 36 0 0 1 148 164" fill="none" stroke="url(#tg)" stroke-width="16" stroke-linecap="round"/>
+<circle cx="128" cy="128" r="10" fill="url(#tg)"/>
 </svg>

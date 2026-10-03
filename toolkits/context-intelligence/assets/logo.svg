@@ -3,7 +3,7 @@
 <stop offset="0" stop-color="#F5B942"/><stop offset="1" stop-color="#F26B21"/>
 </linearGradient></defs>
 <rect width="256" height="256" rx="52" fill="#0D0D0F"/>
-<rect x="86" y="100" width="80" height="56" rx="10" fill="none" stroke="url(#tg)" stroke-width="10" stroke-linejoin="round"/>
-<line x1="104" y1="172" x2="152" y2="172" stroke="url(#tg)" stroke-width="10" stroke-linecap="round"/>
-<path d="M128 84 L128 96 M122 90 L128 96 L134 90" fill="none" stroke="url(#tg)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="100" width="80" height="56" rx="14" fill="none" stroke="url(#tg)" stroke-width="14" stroke-linejoin="round"/>
+<path d="M128 78 L128 96 M120 86 L128 96 L136 86" fill="none" stroke="url(#tg)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="104" y1="176" x2="152" y2="176" stroke="url(#tg)" stroke-width="14" stroke-linecap="round"/>
 </svg>
